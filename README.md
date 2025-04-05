@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project was a simple exercise in clustering utilizing the K-means algorithm. The focus was on segmenting a credit card company's clients into distinct groups, enabling the development of tailored business strategies that address each customer segment's specific needs and behaviors. This was initially a project from a machine learning course.
+This project focused on clustering utilizing the K-means algorithm. The focus was on segmenting a credit card company's clients into distinct groups, enabling the development of tailored business strategies that address each customer segment's specific needs and behaviors. 
 
 ## Project Contents
 
